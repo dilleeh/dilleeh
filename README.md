@@ -47,6 +47,8 @@
 [<img align="left" alt="Ai" width="30px" src="https://th.bing.com/th?id=OSK.79ba1382dceb5228a30219fd89cac9bc&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Notion" width="30px" src="https://th.bing.com/th?id=ODLS.80b38235-3403-4ff3-b4ce-6948d87619bb&w=32&h=32&qlt=99&pcl=fffffa&o=6&pid=1.2" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Github" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Github" width="50px" src="https://logosmarcas.net/wp-content/uploads/2020/11/Wix-Logo.png" style="padding-right:10px;" />][webdev]
+
 
 <br />
 <br />
