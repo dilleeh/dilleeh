@@ -26,7 +26,7 @@
    - Assist or accompany technical mentors to deliver training materials related to Web 
      Development
      
-#### 2. Student Exchange Program PERMATA LPTK | Online | `Sep 2022' - 'Jan 2023`
+#### 2. Student Exchange Program PERMATA LPTK | Online | Sep 2022 - Jan 2023
    - Statistika Dasar, Kewirausahaan Digital & Antar Muka dab Visualisasi (Universitas Negeri 
      Jakarta)
    - Jaringan Komputer dan User Experience Design (Universitas Pendidikan Ganesha)
@@ -60,4 +60,4 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/eidillashalsadiza/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/eidillashalsadiza/#gh-dark-mode-only)
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/dilleeh/dilleeh
