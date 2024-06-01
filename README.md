@@ -1,5 +1,5 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://dilleeh.io)
 <h1 align="center">Hi 👋, I'm Eidilla Shalsa</h1>
+<img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
 
 ## 📌 What I'm Doing:
 - 👩🏻‍💻 I’m currently internship as Web Developer 
