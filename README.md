@@ -1,4 +1,6 @@
-# Hi 👋, I'm Eidilla Shalsa
+[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://dilleeh.io)
+<h1 align="center">Hi 👋, I'm Eidilla Shalsa</h1>
+
 ## 📌 What I'm Doing:
 - 👩🏻‍💻 I’m currently internship as Web Developer 
 - 👩🏻‍🎓 Studied Telecommunication Systems at the Universitas Pendidikan Indonesia
@@ -52,12 +54,10 @@
 <br />
 
 ---
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/eidilla-shalsadiza/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/eidilla-shalsadiza/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/eidillashalsadiza/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/eidillashalsadiza/#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/eidilla shalsadiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eidilla shalsadiza" height="30" width="40" /></a>
+<a href="https://instagram.com/eidillashalsadiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eidillashalsadiza" height="30" width="40" /></a>
+</p>
 
 [webdev]: https://github.com/dilleeh/dilleeh
