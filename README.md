@@ -1,7 +1,7 @@
-# Hi there, I'm Dilla - aka [eidillashalsa]👋
-## About me:
-- 🔭 I’m currently internship as Web Developer 
-- 🌱 I’m currently a student majoring in Telecommunication Systems
+# Hi 👋, I'm Eidilla Shalsa
+## 📌 What I'm Doing:
+- 👩🏻‍💻 I’m currently internship as Web Developer 
+- 👩🏻‍🎓 Studied Telecommunication Systems at the Universitas Pendidikan Indonesia
 - 💬 Ask me about anything
 - 📫 How to reach me: eidillashalsa17@gmail.com
 
@@ -34,22 +34,20 @@
    - Teori Medan Listrik (Universitas Negeri Manado)
 ---
 
-### Languages and Tools:
+### 💻Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[<img align="left" alt="HTML" width="30px" src="https://th.bing.com/th?id=OSK.186555db9875591607e198f37e33cad2&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="30px" src="https://th.bing.com/th?id=OSK.54041df1c4c3a2d060fc7d8062ae174b&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="30px" src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="ReactJS" width="30px" src="https://th.bing.com/th?id=OSK.TaUHj4RydL4bl0Y_lEmaBZVHPkhEXb7x1l2X4CedGiM&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Tailwind" width="30px" src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Bootstrap" width="30px" src="https://th.bing.com/th?id=OSK.e7e37b7b956f79796237f90ce2cb7b59&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Canva" width="30px" src="https://th.bing.com/th?id=ODLS.df532629-3229-49d9-b9ce-289bed5b4ba6&w=32&h=32&qlt=99&pcl=fffffa&o=6&pid=1.2" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Figma" width="30px" src="https://th.bing.com/th?id=OSK.45962e2c46c7cbc263880160290e9005&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Ai" width="30px" src="https://th.bing.com/th?id=OSK.79ba1382dceb5228a30219fd89cac9bc&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Notion" width="30px" src="https://th.bing.com/th?id=ODLS.80b38235-3403-4ff3-b4ce-6948d87619bb&w=32&h=32&qlt=99&pcl=fffffa&o=6&pid=1.2" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Github" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Github" width="50px" src="https://logosmarcas.net/wp-content/uploads/2020/11/Wix-Logo.png" style="padding-right:10px;" />][webdev]
-
-
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br />
 <br />
 
