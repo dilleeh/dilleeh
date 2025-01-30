@@ -18,7 +18,7 @@
  #### 2. [SMA N 6 Pekanbaru](https://sman6pekanbaru.sch.id/) | MIPA | Pekanbaru `2018-2021`
  
 ## Experience:
-#### 1. [PT. Kinema Systrans Multimedia, Infinite Learning](https://www.infinitelearning.id/) | Web Developer Internship | Batam Feb 2024 - Now
+#### 1. [PT. Kinema Systrans Multimedia, Infinite Learning](https://www.infinitelearning.id/) | Web Developer Internship | Batam Feb 2024 - Desember 2024
    - Researching digital-based solutions (Website)
    - Designing website coding in accordance with the design provided
    - Design business flow and business architecture according to the research results
