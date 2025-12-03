@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Eidilla Shalsa</h1>
 
 ## 📌 What I'm Doing:
-- 👩🏻‍💻 I’m currently internship as Web Developer 
-- 👩🏻‍🎓 Studied Telecommunication Systems at the Universitas Pendidikan Indonesia
+- 👩🏻‍💻 I’m currently internship as Network Broadband Access Engineering
+- 👩🏻‍🎓 Recent graduate from Telecommunication Systems at the Universitas Pendidikan Indonesia
 - 💬 Ask me about anything
 - 📫 How to reach me: eidillashalsa17@gmail.com
 
@@ -18,17 +18,20 @@
  #### 2. [SMA N 6 Pekanbaru](https://sman6pekanbaru.sch.id/) | MIPA | Pekanbaru `2018-2021`
  
 ## Experience:
-#### 1. [PT. Kinema Systrans Multimedia, Infinite Learning](https://www.infinitelearning.id/) | Web Developer Internship | Batam Feb 2024 - Desember 2024
-   - Researching digital-based solutions (Website)
-   - Designing website coding in accordance with the design provided
-   - Design business flow and business architecture according to the research results
-   - Liaise with other divisions to obtain information and understanding related to content    
-     material
-   - Create drafts and make revisions based on feedback received
-   - Assist or accompany technical mentors to deliver training materials related to Web 
-     Development
+#### 1. [PT. Telkom Akses Regional Jawa Barat] | Project Admin Construction Internship | Bandung Sep 2024 - Desember 2024
+   - Perform daily monitoring and reporting of FTTH network construction progress using the SMILE (Supply Managament Information for Logistic Enchancement) system.
+   - Assist in verifying work reports and uploading supporting documents such as BAST (Berita Acara Serah Terima) for project reconciliation and billing purposes.
+   - Assist in data entry of Bill of Quantities (BOQ), scheduling of Acceptance Test (UT), and tracking the value of materials and services from various projects.
+   - Manage the recap of user account data and project completion status in each Witel in the form of spreadsheets.
+
+#### 2. [PT. Kinema Systrans Multimedia, Infinite Learning](https://www.infinitelearning.id/) | Web Developer Internship | Batam Feb 2024 - Juni 2024
+   - Redesign and develop a company profile web using React Js, Tailwind and Express Js.
+   - Design business flow and needs according to research results.
+   - Work closely with UI/UX and project management divisions to obtain information and understanding related to content material.
+   - Create drafts and make revisions based on the feedback received.
+   - Assist mentors to become training facilitators held by companies related to web development.
      
-#### 2. Student Exchange Program PERMATA LPTK | Online | Sep 2022 - Jan 2023
+#### 3. Student Exchange Program PERMATA LPTK | Online | Sep 2022 - Jan 2023
    - Statistika Dasar, Kewirausahaan Digital & Antar Muka dab Visualisasi (Universitas Negeri 
      Jakarta)
    - Jaringan Komputer dan User Experience Design (Universitas Pendidikan Ganesha)
