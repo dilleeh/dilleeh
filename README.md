@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eidilla Shalsa</h1>
 
 ## 📌 What I'm Doing:
-- 👩🏻‍💻 I’m currently internship as Network Broadband Access Engineering
+- 👩🏻‍💻 I’m currently work as Network Broadband Access Engineering
 - 👩🏻‍🎓 Recent graduate from Telecommunication Systems at the Universitas Pendidikan Indonesia
 - 💬 Ask me about anything
 - 📫 How to reach me: eidillashalsa17@gmail.com
